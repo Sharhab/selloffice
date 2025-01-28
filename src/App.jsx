@@ -7,7 +7,7 @@ import Doctors from "./components/Doctors";
 import Blogs from "./components/Blogs";
 import Footer from "./components/Footer";
 import WhatsAppButton from "./components/WhatsAppButton";
-import UploadForm from "./components/Uploadform";
+import UploadForm from "./components/UploadForm";
 
 const App = () => {
   return (
