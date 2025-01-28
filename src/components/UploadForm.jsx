@@ -204,4 +204,4 @@ const closeButtonStyles = {
   width: '45%', // Ensure buttons do not overflow
 };
 
-export default UploadForm;
+
